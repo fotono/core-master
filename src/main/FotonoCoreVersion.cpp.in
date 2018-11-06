@@ -1,0 +1,4 @@
+#include "main/fotonoCoreVersion.h"
+
+const std::string fotono_CORE_VERSION = "%%VERSION%%";
+
